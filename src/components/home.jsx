@@ -12,7 +12,7 @@ import {
 	Text,
 } from "@chakra-ui/react"
 import React from "react"
-import { NavLink, Route, Switch } from "react-router-dom"
+import { NavLink,} from "react-router-dom"
 import { FaCcMastercard, FaCcPaypal, FaCcVisa } from "react-icons/fa"
 
 function Home() {
